@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![](https://github.com/mikadominguezz/mikadominguezz/blob/main/.jpeg)
-- 🔭 I’m currently working on systems egineering
-- 🌱 I’m currently learning python
+- 🔭 I’m currently in my 3rd year of Systems Egineering in Universidad Católica del Uruguay (UCU)
+- 🌱 I’m currently learning about cybersecutiry
 - 📫 How to reach me: mikadominguezz2004@gmail.com
-- ⚡ Fun fact: i like math
